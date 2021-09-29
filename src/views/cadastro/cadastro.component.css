@@ -1,0 +1,18 @@
+.table {
+  background-color: rgb(36, 98, 114);
+  height: 200px;
+  width: 500px;
+  margin-left: 100px;
+}
+.livro {
+  padding: 100px;
+  font-size: 20px;
+  color: aliceblue;
+}
+.btn {
+  height: 50px;
+  width: 100px;
+  background-color: aquamarine;
+  margin-left: 100px;
+  margin-top: 15px;
+}

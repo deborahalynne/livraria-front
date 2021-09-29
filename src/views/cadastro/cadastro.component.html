@@ -1,0 +1,10 @@
+<div class="tabela" class="table">
+  <form action="/post"  method="post">
+    <div class="livro">
+      <label class="lbl" for="name" [(ngModel)]="livro">Livro:</label>
+      <input type="text" id="name"/>
+      <button (click)="cadastrar()" type="submit" class="btn">Cadastrar livro</button>
+    </div>
+  </form>
+</div>
+
